@@ -1,0 +1,40 @@
+body {
+	margin: 40;
+	padding: 20;
+	background: url(../images/Hospital.jpg);
+
+    
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: 300;
+	color: #ffffff;
+}
+
+.h1{
+    font-size: 100px;
+    font-style: normal;
+    color: cornflowerblue;
+    margin: 0;
+    padding: 10;
+    font-weight: 200px;
+    
+}
+
+.title{
+    color: deepskyblue;
+}
+
+#id1{
+    font-size: 100px;
+    font-style: italic;
+    font-weight: 200px;
+    
+}
+
+#id2{
+    margin: 10px;
+    padding: 25px;
+    font-size: 40px;
+    color: black;
+    
+}
